@@ -74,6 +74,21 @@ const translations = {
     saturation: 'Сатурација',
     showImageTools: 'Прикажите алат',
   },
+  it: {
+    brightness: 'Luminosità',
+    collapse_open: 'Chiudi i tools immagine',
+    collapse_close: 'Apri i tools immagine',
+    contrast: 'Contrasto',
+    flip: 'Flip',
+    greyscale: 'Scala di grigio',
+    hide: 'Nascondi i tools immagine',
+    invert: 'Inverti i colori',
+    revert: 'Ripristinare l'immagine',
+    rotateLeft: 'Ruota a sinistra',
+    rotateRight: 'Ruota a destra',
+    saturation: 'Saturazione',
+    show: 'Mostra i tools immagine',
+  }
 };
 
 export default translations;
